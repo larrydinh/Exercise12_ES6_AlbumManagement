@@ -49,5 +49,11 @@ console.log('Minh La User C Da fix');
 =======
 
 console.log("ahhahaPhuc")
+<<<<<<< HEAD
 >>>>>>> 85792b639d26c9790cfd9cf57b3ca4b6f27508dd
 console.log("ahhahaPhucNeDaFix")
+=======
+console.log("gsdf;iuerw9t423n")
+console.log("342245742398532478")
+>>>>>>> f5f32e71f09282ec76b6477b47e186394fcecd98
+console.log("ahihii")
