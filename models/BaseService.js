@@ -35,8 +35,13 @@ export class BaseService {
         return promise;
     }
 }
+<<<<<<< HEAD
 
 console.log('Minh La User C');
 console.log('Minh La User C');
 console.log('Minh La User C');
 console.log('Minh La User C');
+=======
+console.log("mình là User B bbb ");
+>>>>>>> 1943490f9431c4ea169d1fb5bf740e2f3535bfeb
+console.log('Minh La User C Da fix');
