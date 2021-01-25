@@ -37,3 +37,6 @@ export class BaseService {
 }
 
 console.log('Minh La User C');
+console.log('Minh La User C');
+console.log('Minh La User C');
+console.log('Minh La User C');
