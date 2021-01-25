@@ -37,6 +37,7 @@ export class BaseService {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 console.log('Minh La User C');
 console.log('Minh La User C');
@@ -57,3 +58,10 @@ console.log("gsdf;iuerw9t423n")
 console.log("342245742398532478")
 >>>>>>> f5f32e71f09282ec76b6477b47e186394fcecd98
 console.log("ahihii")
+=======
+console.log("mình là User B ");
+console.log("Quân nè mọi người xin chào kimochi");
+console.log("hah âhh hah aha ");
+
+console.log("Chao thang beo ben trai, ");
+>>>>>>> 9ccd88e7d7af96ca460b494f9ad3413808ec0fbc
