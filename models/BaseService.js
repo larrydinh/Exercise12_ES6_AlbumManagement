@@ -35,3 +35,4 @@ export class BaseService {
         return promise;
     }
 }
+console.log("mình là User B ");
