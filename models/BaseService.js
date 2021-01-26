@@ -35,4 +35,3 @@ export class BaseService {
         return promise;
     }
 }
-
